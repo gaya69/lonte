@@ -1,0 +1,1 @@
+datr=GCTLZZjXIdi0Fl_ay9pK4jFw; sb=GCTLZSoZ4qZTMziya4DiJCPW; ps_l=0; ps_n=0; locale=id_ID; vpd=v1%3B598x360x2; dpr=2; m_pixel_ratio=2; wd=360x598; fr=0njks5rvYrjYmSzSL.AWUtPrE7bmBMznCYYd7zPvXcBpM.BlyyQY.Rm.AAA.0.0.BlzCxO.AWWKLtnfnhE; c_user=100010061977994; xs=41%3AAmZnv_7AheIl4Q%3A2%3A1707879504%3A-1%3A4640; wl_cbv=v2%3Bclient_version%3A2408%3Btimestamp%3A1707879506
